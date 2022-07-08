@@ -16,8 +16,6 @@ header {
     text-align: center;
     margin: 0;
     text-transform: unset;
-    padding-top: 10px;
-    color: bisque;
 }
 a {
     color: black;
@@ -26,6 +24,10 @@ a {
 nav {
     text-align: center;
     padding-top: 20px;
+}
+h1 {
+    padding-top: 30px;
+    color: bisque;
 }
 h2 {
     text-align: center;
