@@ -17,7 +17,7 @@ header {
     margin: 0;
     text-transform: unset;
     padding-top: 10px;
-    color: #B1BBCBDE;
+    color: bisque;
 }
 a {
     color: black;
@@ -30,7 +30,7 @@ nav {
 h2 {
     text-align: center;
     padding-top: 30px;
-    color: #B1BBCBDE;
+    color: bisque/;
 }
 div {
     display: flex;
