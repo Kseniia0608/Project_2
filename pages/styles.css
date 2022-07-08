@@ -22,7 +22,6 @@ header {
     margin: 0;
     text-transform: unset;
     padding-top: 10px;
-    color: #15181ede;
 }
 a {
     color: #B1BBCBDE;
@@ -30,7 +29,7 @@ a {
 }
 nav {
     text-align: center;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 h1 {
     text-align: center;
@@ -40,6 +39,7 @@ h1 {
 h2 {
     text-align: center;
     padding-top: 20px;
+    color: bisque;
 }
 div {
     align-items: center;
